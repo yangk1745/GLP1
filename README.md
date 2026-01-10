@@ -1,5 +1,5 @@
 # GLP1
-Repo needed for GLP1 data dashboard app, DO NOT CHANGE; please see other repo (CS119_Dashboard) for instructions
+Repo needed for GLP1 data dashboard app, DO NOT CHANGE/MOVE; please see other repo (CS119_Dashboard) for instructions
 ## Status notice
 
 This repository supports a live web application and reflects iterative
